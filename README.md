@@ -29,7 +29,7 @@ A simple Android drawing application built with Kotlin and XML.
 
 ## 📥 Download APK
 
-🚀 **[Click Here to Download Doby Brush APK](apk/Doby%20Brush.apk?raw=true)**
+🚀 **[Click Here to Download Dooby Brush APK](apk/Dooby_brush.apk?raw=true)**
 
 ## 👨‍💻 Developer
 
