@@ -1,4 +1,4 @@
-# 🎨 Doby Brush
+# 🎨 Dooby Brush
 
 A simple Android drawing application built with Kotlin and XML.
 
